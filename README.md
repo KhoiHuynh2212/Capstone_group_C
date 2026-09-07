@@ -1,4 +1,4 @@
-# CS4273_26_group_c Innospec Inventory Management System
+# CS4273 26 Group - Innospec Inventory Management System
 
 ## Project Description
 
