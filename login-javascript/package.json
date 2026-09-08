@@ -1,0 +1,17 @@
+{
+  "name": "login-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "login.js",
+  "scripts": {
+  "test": "jest"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.5.1",
+    "jest-environment-jsdom": "^30.5.1"
+  }
+}
